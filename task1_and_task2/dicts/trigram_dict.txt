@@ -1,0 +1,25 @@
+# trigram
+objective-c
+cocos2d-x
+剑指offer
+tcp/ip
+node.js
+utf-8
+支持向量机
+k-means
+wi-fi
+generic-pool
+ytu-oj
+大整数算法
+建造者模式
+k近邻算法
+b+树
+b-树
+b*树
+汶川大地震
+类加载器
+矩阵快速幂
+最大子列和
+a*算法
+奇异值分解
+cocos2d-js
